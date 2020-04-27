@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "shell.h": "c",
+        "thread.h": "c",
+        "board.h": "c",
+        "gpio.h": "c"
+    }
+}
